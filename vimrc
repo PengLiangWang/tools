@@ -1,12 +1,5 @@
-set nohls
-set tags+=$HOME/bak/tags
-set fileencoding=utf-8
-set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
-set termencoding=utf-8
-set encoding=utf-8
-set ts=4
-set nocompatible
-set paste
+set nu
+set expandtab
 set tabstop=4
 set shiftwidth=4
 set showmatch
@@ -15,7 +8,11 @@ set cindent
 set smartindent
 set vb t_vb=
 set formatoptions+=mM
-syntax on
+syntax on  "Óï·¨×ÅÉ«
+set fileencoding=utf-8
+set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
+set termencoding=utf-8
+set encoding=utf-8
 
 color default
 
